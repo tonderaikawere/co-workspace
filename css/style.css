@@ -1,0 +1,73 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* this is my header section styles  */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    position: absolute;
+    top: 4%;
+    padding: 10px;
+}
+
+header div ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 5%;
+}
+
+header div ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+/*  my header section styles ends here */
+
+/* this is my hero section styles  */
+#hero{
+  height: 100vh;
+  width: 100%;
+  background-image: url(../images/header.jpg); 
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+
+#hero h1{
+    font-size: 45px;
+}
+/* my hero section styles ends here  */
+
+/* this is my about section styles  */
+#about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#about .about-inner{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 50px;
+    gap: 3%;
+    text-align: center;
+} 
+
+/* my about section styles ends here  */
+
+/* this is my services section styles */
+
+/* my services section styles */
