@@ -6,3 +6,5 @@
 
 - 2022-09-24 14:15:00: Formulating spacing variables and alignment system.
 
+- 2022-09-24 16:00:00: Designing responsive navigation container.
+
