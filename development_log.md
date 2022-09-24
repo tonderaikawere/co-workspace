@@ -8,3 +8,5 @@
 
 - 2022-09-24 16:00:00: Designing responsive navigation container.
 
+- 2022-09-24 17:30:00: Integrating header logo and layout transitions.
+
