@@ -20,3 +20,5 @@
 
 - 2022-09-25 14:00:00: Styling glassmorphic card containers.
 
+- 2022-09-25 16:15:00: Embedding clean SVG icons for about cards.
+
