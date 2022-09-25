@@ -18,3 +18,5 @@
 
 - 2022-09-25 12:30:00: Initializing About section grid structure.
 
+- 2022-09-25 14:00:00: Styling glassmorphic card containers.
+
