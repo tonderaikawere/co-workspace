@@ -14,3 +14,5 @@
 
 - 2022-09-25 09:30:00: Implementing dynamic typography clamp values for hero text.
 
+- 2022-09-25 11:00:00: Adding primary action button layouts in hero.
+
