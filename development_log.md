@@ -12,3 +12,5 @@
 
 - 2022-09-24 19:00:00: Designing hero section overlay and base image alignment.
 
+- 2022-09-25 09:30:00: Implementing dynamic typography clamp values for hero text.
+
