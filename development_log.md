@@ -28,3 +28,5 @@
 
 - 2022-09-26 11:30:00: Aligning services image container and border radius.
 
+- 2022-09-26 13:30:00: Adding services action button styling.
+
