@@ -26,3 +26,5 @@
 
 - 2022-09-26 10:00:00: Starting Services section structural layout.
 
+- 2022-09-26 11:30:00: Aligning services image container and border radius.
+
