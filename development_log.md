@@ -24,3 +24,5 @@
 
 - 2022-09-25 18:00:00: Designing hover effects and translation states for cards.
 
+- 2022-09-26 10:00:00: Starting Services section structural layout.
+
