@@ -32,3 +32,5 @@
 
 - 2022-09-26 15:00:00: Implementing text scaling parameters for flexible plans description.
 
+- 2022-09-26 16:45:00: Structuring newsletter section layout.
+
