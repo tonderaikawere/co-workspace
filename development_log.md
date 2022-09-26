@@ -34,3 +34,5 @@
 
 - 2022-09-26 16:45:00: Structuring newsletter section layout.
 
+- 2022-09-26 18:30:00: Designing glassmorphic panel for subscription form.
+
