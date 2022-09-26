@@ -30,3 +30,5 @@
 
 - 2022-09-26 13:30:00: Adding services action button styling.
 
+- 2022-09-26 15:00:00: Implementing text scaling parameters for flexible plans description.
+
