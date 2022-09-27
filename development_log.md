@@ -36,3 +36,5 @@
 
 - 2022-09-26 18:30:00: Designing glassmorphic panel for subscription form.
 
+- 2022-09-27 09:30:00: Adding responsive input fields for newsletter signups.
+
