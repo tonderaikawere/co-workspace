@@ -44,3 +44,5 @@
 
 - 2022-09-27 15:30:00: Implementing keyboard accessibility focus rings.
 
+- 2022-09-27 17:00:00: Structuring CSS media queries for tablet breakpoint.
+
