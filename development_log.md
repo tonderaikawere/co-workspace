@@ -46,3 +46,5 @@
 
 - 2022-09-27 17:00:00: Structuring CSS media queries for tablet breakpoint.
 
+- 2022-09-27 18:30:00: Integrating mobile menu check-toggle CSS drawer.
+
