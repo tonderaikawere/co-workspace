@@ -38,3 +38,5 @@
 
 - 2022-09-27 09:30:00: Adding responsive input fields for newsletter signups.
 
+- 2022-09-27 11:15:00: Styling focus ring indicators for inputs.
+
