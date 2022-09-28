@@ -52,3 +52,5 @@
 
 - 2022-09-28 12:00:00: Added detailed README.md file.
 
+- 2022-09-28 14:30:00: Updated index.html with fonts, layout tags, menu toggle, and SVG icons.
+

@@ -3,121 +3,111 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tonde's co-workspace</title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <!-- this is my heading section  -->
-     <header>
-        <img src="./images/logo.png" alt="logo-image">
-        <div>
+    <header>
+        <div class="header-inner">
+            <a href="#">
+                <img src="./images/logo.png" alt="logo" class="logo">
+            </a>
+            <input type="checkbox" id="nav-toggle" class="nav-toggle" style="display: none;">
+            <label for="nav-toggle" class="hamburger" aria-label="Toggle Navigation Menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
             <ul>
-                <li>
-                    <a href="#">Home</a>
-                </li>
-                <li>
-                    <a href="#">About</a>
-                </li>
-                <li>
-                    <a href="#">Services</a>
-                </li>
-                <li>
-                    <a href="#">Blog</a>
-                </li>
-                <li>
-                    <a href="#">Contact</a>
-                </li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
             </ul>
         </div>
-     </header>
-     <!-- My header section ends here  -->
+    </header>
 
-     <!-- this is my hero section  -->
-      <section id="hero">
+    <section class="hero">
         <div class="hero-inner">
-            <h1>Lorem ipsum dolor sit amet.</h1>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa, vitae!</p>
+            <h1> EXCEPTEUR OCCAECAT CUPIDATA</h1>
+            <p>duis aute irure reprelienderit</p>
         </div>
-      </section>
-      <!-- my hero section ends here  -->
+    </section>
 
-      <!-- this is my about Section  -->
-       <section id="about">
+    <section class="about">
         <div class="about-inner">
-            <div class="about-card-one">
-                <h4>Lorem, ipsum dolor.</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, commodi.</p>
+            <div>
+                <h2>Duis Aute Irure</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto libero eum natus minima</p>
             </div>
-            <div class="about-card-two">
-                <h4>Lorem, ipsum dolor.</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, commodi.</p>
+            <div>
+                <h2>Duis Aute Irure</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto libero eum natus minima</p>
             </div>
-            <div class="about-card-three">
-                <h4>Lorem, ipsum dolor.</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, commodi.</p>
+            <div>
+                <h2>Duis Aute Irure</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto libero eum natus minima</p>
             </div>
         </div>
-       </section>
-       <!-- my about section ends here  -->
+    </section>
 
-       <!-- this is my services section  -->
-        <section id="services">
-            <div class="services-inner">
-                <img src="./images/appleComputer.jpg" width="300px" alt="services-image">
-                <h3>Lorem ipsum dolor sit.</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sunt molestiae beatae nemo obcaecati delectus, sequi optio rerum aspernatur quo.</p>
-                <button>SIGN UP NOW</button>
+    <section class="services">
+        <div class="services-inner">
+            <img src="./images/appleComputer.jpg" alt="Sample Image">
+            <h2>WE DESIGN BEAUTIFUL TEMPLATES.</h2>
+            <p>We Design Beautiful Templates. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci excepturi laudantium magni ad incidunt reiciendis delectus in sit veniam cupiditate accusantium animi!</p>
+            <button>SIGN UP NOW!</button>
+        </div>
+    </section>
+
+    <section class="blog">
+        <h2>OUR HAPPY CLIENTS</h2>
+        <div class="blog-inner">
+            <div>
+                <p>Lorem, ipsum dolor sit amet consectetur  adipisicing elit. Est facere ex maiores earum sunt, suscipit blanditiis. <br>Lorem ipsum dolor sit amet, consectetur  adipisicing elit. Harum, ducimus ex laborum deleniti voluptate excepturi repellendus.</p>
+                <h6>@Jane Doe</h6>
             </div>
-        </section>
-        <!-- my services section ends here  -->
+            <div>
+                <p>Lorem, ipsum dolor sit amet consectetur  adipisicing elit. Est facere ex maiores earum  sunt, suscipit blanditiis. <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, ducimus ex laborum deleniti voluptate excepturi repellendus.</p>
+                <h6>@Jane Doe</h6>
+            </div>
+            <div>
+                <p>Lorem, ipsum dolor sit amet consectetur  adipisicing elit. Est facere ex maiores earum  sunt, suscipit blanditiis. <br>Lorem ipsum dolor sit amet, consectetur  adipisicing elit. Harum, ducimus ex laborum deleniti voluptate excepturi repellendus.</p>
+                <h6>@Jane Doe</h6>
+            </div>
+        </div>
+    </section>
 
-<!-- my testimonial section  -->
-<!-- my testimonial section ends here -->
-
-<!-- this is my newsletter section  -->
- <section id="newsletter">
-    <div class="newsletter">
-        <h3>SUBSCRIBE TO OUR NEWSLETTER.</h3>
-        <div class="forms">
-            <form action="#">
-                <input type="text" placeholder="Name">
-                <input type="email" placeholder="Email">
-                <input type="button" value="SUBSCRIBE">
+    <section class="contact">
+        <div class="contact-inner">
+            <h2>SUBSCRIBE TO OUR NEWSLETTER.</h2>
+            <form action="">
+                <input type="name" placeholder="name">
+                <input type="email" placeholder="email">
+                <input type="button" value="Subscribe">
             </form>
         </div>
-    </div>
- </section>
-<!-- my newsletter section ends here -->
+    </section>
 
-<!-- this is my footer section  -->
- <footer>
-    <div class="footer-inner">
-        <img src="./images/logo.png" alt="logo-image">
-        <ul>
-            <li>
-                <a href="#">Company</a>
-            </li>
-            <li>
-                <a href="#">Location</a>
-            </li>
-            <li>
-                <a href="#">Help</a>
-            </li>
-            <li>
-                <a href="#">Advertise</a>
-            </li>
-            <li>
-                <a href="#">Terms</a>
-            </li>
-            <li>
-                <a href="#">Privacy</a>
-            </li>
-        </ul>
-        <hr>
-        <span>Lorem ipsum dolor sit amet.</span>
-    </div>
- </footer>
-<!-- my footer section ends here -->
-
+    <footer>
+        <div class="footer-inner">
+            <div>
+                <a href="#">
+                    <img src="./images/logo.png" alt="logo">
+                </a>
+            </div>
+            <ul>
+                <li><a href="#">Company</a></li>
+                <li><a href="#">Location</a></li>
+                <li><a href="#">Help</a></li>
+                <li><a href="#">Advertise</a></li>
+                <li><a href="#">Terms</a></li>
+                <li><a href="#">Privacy</a></li>
+            </ul>
+            <hr>
+            <p>&copy; 2026 <a href="http//sproutcoding.org"> sproutcoding.org</a> - All Rights Reserved</p>
+        </div>
+    </footer>
 </body>
 </html>
