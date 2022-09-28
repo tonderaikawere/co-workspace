@@ -48,3 +48,5 @@
 
 - 2022-09-27 18:30:00: Integrating mobile menu check-toggle CSS drawer.
 
+- 2022-09-28 10:00:00: Created MIT LICENSE.
+
