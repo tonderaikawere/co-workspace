@@ -54,3 +54,5 @@
 
 - 2022-09-28 14:30:00: Updated index.html with fonts, layout tags, menu toggle, and SVG icons.
 
+- 2022-09-28 16:30:00: Overwrote css/style.css with responsive grids, vars, and styling.
+
