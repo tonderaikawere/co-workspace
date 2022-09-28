@@ -50,3 +50,5 @@
 
 - 2022-09-28 10:00:00: Created MIT LICENSE.
 
+- 2022-09-28 12:00:00: Added detailed README.md file.
+
